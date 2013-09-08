@@ -7,12 +7,13 @@
 //
 
 #include <iostream>
-
-int main(int argc, const char * argv[])
+using namespace std;
+int main()
 {
 
     // insert code here...
-    std::cout << "Hello, World!\n";
+    std::cout << "Hello, World!I'm CaiYuntong\n";
+    getchar();
     return 0;
 }
 
